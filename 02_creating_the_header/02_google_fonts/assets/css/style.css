@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300&family=Oswald');
+* {
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+body {
+    font-family: Lato;
+}
